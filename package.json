@@ -1,0 +1,22 @@
+{
+  "name": "nyaa-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyBeastMC/nyaa-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SkyBeastMC/nyaa-scraper/issues"
+  },
+  "homepage": "https://github.com/SkyBeastMC/nyaa-scraper#readme",
+  "dependencies": {
+    "nyaapi": "^2.0.5"
+  }
+}
